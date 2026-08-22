@@ -1,18 +1,64 @@
-# 💫 About Me:
-🔭 I’m currently working on trying to stay afloat as an ING1 EPITA Student<br>🌱 I’m currently learning loads of new languages :D<br>⚡ My favorite language is OCaml
+# Hey, I'm Gallux 👋
 
+**EPITA student · C / Python / OCaml enjoyer · occasionally knows what he's doing**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gallux) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thegroeland) 
+I finished **ING1 at EPITA** and, somehow, came out with a few programming languages under my belt.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-Skill I'll get after this year :
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+My favorites are **C, Python and OCaml** - for very different reasons, but I like all three enough to keep coming back to them.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TheGallux&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TheGallux&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGallux&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm mostly interested in programming, figuring out how things work, and making questionable projects that somehow end up working.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🧠 The languages
+
+### 🥇 C
+
+When I want to understand what's actually happening.
+
+### 🐍 Python
+
+When I want something done without fighting the compiler for three hours.
+
+### 🐫 OCaml
+
+When I want to make a questionable amount of type definitions for a problem that probably didn't need them.
+
+I like all three, but **OCaml has a special place in my heart**.
+
+---
+
+## 🛠️ Stuff I work with
+
+**Languages**
+
+`C` · `Python` · `OCaml` · `Bash` · `Java` · `JavaScript` · `C++`
+
+**Other things**
+
+`PostgreSQL` · `LaTeX` · Linux · Git
+
+There's probably something missing from this list.
+
+There usually is.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheGallux&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGallux&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="165">
+</p>
+
+---
+
+## 🌐 Elsewhere
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square\&logo=discord\&logoColor=white)](https://discord.gg/gallux)
+
+---
+
+<p align="center">
+  <i>Currently compiling...</i>
+</p>
